@@ -19,6 +19,6 @@ sudo apt-get install ultra-flat-icons ultra-flat-icons-green ultra-flat-icons-or
 
 Thanks, [anmoljagetia](https://github.com/anmoljagetia/Flatabulous).
 
-##Source(s)
+## Source(s)
 * [anmoljagetia](https://github.com/anmoljagetia/Flatabulous)
 * [Ubuntu Handbook](http://ubuntuhandbook.org/index.php/2015/11/flatabulous-flat-theme-ubuntu/)
