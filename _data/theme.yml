@@ -1,0 +1,36 @@
+# Theme customization - please change from the defaults!
+
+# Color for top bar, links, etc
+highlight_color: '#5889db'
+
+# Profile links on the left sidebar, leave blank to ignore
+social:
+  github: rc2squared
+  reddit: rc_squared
+  tumblr: rc2
+  vimeo: user41291936
+  #bitbucket:
+  #facebook:
+  #flicker:
+  #gplus:
+  #gravatar:
+  #hacker_news:
+  #linkedin:
+  #medium:
+  #stackexchange:
+  #stackoverflow:
+  #twitter:
+
+# "Hi, I'm _______"
+name: rc2
+email: rc2@protonmail.com
+tagline: "a personal blog"
+
+# Google Analytics key, leave blank to ignore
+google_analytics_key: UA-xxxx-x
+
+# Toggle "Postings are my own" disclaimer in footer
+show_disclaimer: true
+
+# Toggle link/icon to view atom feed (/atom.xml) in sidebar
+#show_atom_feed: true

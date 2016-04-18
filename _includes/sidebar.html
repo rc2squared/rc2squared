@@ -1,0 +1,17 @@
+<nav>
+  <h1></h1>
+  <a href="/">
+    {% if site.data.theme.social.gravatar %}
+    <img src="http://www.gravatar.com/avatar/{{ site.data.theme.social.gravatar }}?s=200" id="gravatar" alt="My photo"/>
+    {% else %}
+    <img src="/logo.svg" id="logo" alt="Blog logo"/>
+    {% endif %}
+  </a>
+  <!--<h2><a href="/">{{ site.data.theme.name }}</a></h2>-->
+  <div id="bio">
+    <p>An adventure in teaching myself to code</p>
+  </div>
+  <div id="social">
+    {% include social.html %}
+  </div>
+</nav>
