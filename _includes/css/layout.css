@@ -46,41 +46,9 @@
 
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width: 767px) {
-
-	/* Make icon sidebar skinny */
-	.container .columns.sidebar {
-		display: block;
-		width: 40px;
-	}
-
-	.container .eleven.columns {
-		width: 364px;
-    	padding-left: 15px;
-    	border-left: 1px solid #ddd;
-	}
-	
-	.site-title {
+	.sidebar {
 		display: none;
 	}
-
-	.logo {
-		width: 24px;
-    	display: block;
-	}
-
-	.logo img {
-		width: 100%;
-		height: auto;
-	}
-
-	#bio {
-		display: none;
-	}
-
-	#stalker {
-		margin-left: 0;
-	}
-	/* /End: Make icon sidebar skinny */
 
 	h1 {
 		font-size: 28px;
@@ -90,40 +58,9 @@
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) {
-	/* Make icon sidebar skinny */
-	.container .columns.sidebar {
-		display: block;
-		width: 40px;
-	}
-
-	.container .eleven.columns {
-		width: 364px;
-    	padding-left: 15px;
-    	border-left: 1px solid #ddd;
-	}
-
-	.site-title {
+	.sidebar {
 		display: none;
 	}
-
-	.logo {
-		width: 24px;
-    	display: block;
-	}
-
-	.logo img {
-		width: 100%;
-		height: auto;
-	}
-
-	#bio {
-		display: none;
-	}
-
-	#stalker {
-		margin-left: 0;
-	}
-	/* /End: Make icon sidebar skinny */
 
 	h1 {
 		font-size: 24px;
