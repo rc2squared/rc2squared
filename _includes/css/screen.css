@@ -188,6 +188,10 @@ nav h1, nav h2 {
   margin-bottom: 25px;
 }
 
+#logo {
+  width: 100px;
+}
+
 #gravatar {
   width: 180px;
   -webkit-border-radius: 50%;
